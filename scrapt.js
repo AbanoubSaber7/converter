@@ -8,6 +8,7 @@ const units = {
     gb: { value: 8 * 1024 * 1024 * 1024, label: 'Gigabyte (GB)' }
 };
 
+
 document.addEventListener('DOMContentLoaded', () => {
     const menuToggle = document.getElementById('menu-toggle');
     const navMenu = document.getElementById('nav-menu');
